@@ -42,7 +42,7 @@ public class Main {
                         System.out.println("hello");
                         break;
                     } else {
-                        System.out.println("Your password and username are not invalid code 1 for more details please send a mail request to thesun538@gmail.com");
+                        System.out.println("Your password and username are invalid code 1 for more details please send a mail request to thesun538@gmail.com");
                     }
                     tries++;
                 }
