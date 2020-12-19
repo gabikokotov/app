@@ -1,4 +1,4 @@
-package com.gabi;
+package com.company;
 
 import java.util.Scanner;
 
